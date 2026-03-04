@@ -36,15 +36,15 @@ I apply updates regularly and validate them after installation. Where appropriat
 
 Enforce permissions and boundaries.
 
-The operating system enforces access controls. Proper user permissions, service accounts, and least functionality settings reduce accidental errors and security risk.
+I assign proper user permissions, manage service accounts carefully, and enforce least functionality. Systems should only allow what is necessary. Over-permissioned environments create risk.
 
 Use logs as evidence.
 
-Event logs and system logs provide visibility into system behavior. If it is not documented, it did not happen. Log review supports root cause analysis and prevents recurring issues.
+I rely on system and security logs to understand what actually happened. If it is not documented, it did not happen. Log review supports root cause analysis and prevents repeat incidents.
 
 Protect uptime through stability.
 
-System performance, security controls, and configuration discipline all contribute to consistent uptime.
+I focus on consistent performance, timely updates, and configuration discipline. System stability does not happen by accident. Stability of IT systems is achieved and maintained through structured administration and careful change management.
 
 Stability is not accidental; it is maintained through structured administration.
 
