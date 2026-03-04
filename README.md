@@ -32,7 +32,7 @@ I review event logs, system state, recent updates, and configuration history bef
 
 Patch with discipline.
 
-Predictable patch cycles and update validation reduce exposure to vulnerabilities while maintaining operational stability. Updates are necessary, but they must be applied thoughtfully.
+I apply updates regularly and validate them after installation. Where appropriate, I use automated updates to maintain consistency, but I still verify system behavior after changes. Predictable patch cycles reduce vulnerability exposure while maintaining stability.
 
 Enforce permissions and boundaries.
 
