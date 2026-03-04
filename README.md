@@ -22,11 +22,13 @@ Key principles I operate from:
 
 Understand the system before changing it.
 
-An operating system manages processes, memory, storage, permissions, and background services. Before making adjustments, I identify which layer is involved and how changes may affect dependent services.
+An operating system manages processes, memory, storage, permissions, and background services.
+I look at processes, memory usage, storage, permissions, and background services.
+Before I touch anything, I identify which layer is involved and how the change might affect other services that depend on it.
 
 Measure it before applying a chosen intervention.
 
-I review logs, system state, and recent changes before applying fixes. Controlled intervention prevents reactive guessing and reduces unnecessary disruption.
+I review event logs, system state, recent updates, and configuration history before applying a fix. I avoid reactive changes. Controlled intervention reduces disruption and prevents secondary issues.
 
 Patch with discipline.
 
