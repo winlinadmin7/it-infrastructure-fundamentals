@@ -4,15 +4,15 @@ Operational foundations for IT support and systems administration.
 
 **Table of Contents**
 
-1. [Operating Systems Foundations](#operating-systems-foundations)
-2. [Identity & User Administration](#identity--user-administration)
+1. [Operating Systems](#operating-systems)
+2. [Identity & User Administration](#identity-and-user-administration)
 3. [Networking Fundamentals](#networking-fundamentals)
 4. [Core Infrastructure Services](#core-infrastructure-services)
 5. [Systems Reliability & Stability](#systems-reliability--stability)
 6. [Troubleshooting Methodology](#troubleshooting-methodology)
 7. [Operational Support Principles](#operational-support-principles)
 
-**Operating Systems**
+## Operating Systems
 
 Operating systems are the control layer between hardware, users, and services. Stability at this layer directly leads to consistant uptime.
 
@@ -54,7 +54,7 @@ Root cause analysis at the OS level prevents recurring operational risk.
 
 Operating systems are not just platforms: they are risk boundaries.
 
-**Identity and User Administration**
+## Identity and User Administration
 
 Authentication, authorization, account lifecycle management, and access control fundamentals.
 
