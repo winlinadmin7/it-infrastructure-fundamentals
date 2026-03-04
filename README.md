@@ -52,7 +52,7 @@ Operating systems serve as primary control points for:
 
 Root cause analysis at the OS level prevents recurring operational risk.
 
-Operating systems are not just platforms — they are risk boundaries.
+Operating systems are not just platforms: they are risk boundaries.
 
 **Identity and User Administration**
 
